@@ -85,7 +85,7 @@ satellite-land-risk-detection/
 
 ├── README.md                        # Project documentation
 
-├── #archieve                        # Database container(EuroSAT)
+├── archieve/                       # Database container(EuroSAT)
 
 ## Technologies Used
 - Python
@@ -140,6 +140,7 @@ Run the web application:
 ```
 streamlit run app.py
 ```
+
 
 
 
